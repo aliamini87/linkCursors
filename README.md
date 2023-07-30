@@ -2,7 +2,9 @@
 a Matlab code for linking cursors of several axes
 All of the input axes even in different figures will become linked.
 
-![link_cursors_demo](https://github.com/aliamini87/linkCursors/assets/91720545/c3329526-16df-4970-a321-fc2b0f7a75a8)
+<p align="center">
+<img src="https://github.com/aliamini87/linkCursors/assets/91720545/c3329526-16df-4970-a321-fc2b0f7a75a8" width="607" height="507">
+</p>
 
 
 ## Syntax
