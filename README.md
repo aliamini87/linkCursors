@@ -1,5 +1,6 @@
 # linkCursors
-a Matlab code for linking cursors of several axes
+A Matlab code for linking cursors of several axes
+
 All of the input axes even in different figures will become linked.
 
 <p align="center">
